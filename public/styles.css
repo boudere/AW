@@ -1,9 +1,13 @@
 nav{
+    display:flex;
+    position:fixed;
+    justify-content: center;
     background-color: #4b768b;
     color: #ffffff;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
     align-items:center;
+    width:100%;
 }
 
 body{
@@ -23,6 +27,10 @@ body{
 #i2{
     min-width: 100px;
     max-width:100px;
+}
+
+label{
+    margin-right:10px;
 }
 
 
