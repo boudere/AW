@@ -35,9 +35,11 @@ label{
 
 
 .modal1{
-    
-    background-color:#b6ccd4;
-    color:#001f2b;
+    padding:20px;
+    border: 15px solid; /* Ancho del borde */
+    border-image: linear-gradient(45deg, #4c38ff, #24c7f9, #1dd17a) 1;
+    background-color:#2b3134;
+    color:#edfaff;
     width:100%;
     height:100%;
 }
