@@ -2,7 +2,7 @@ nav{
     display:flex;
     position:fixed;
     justify-content: center;
-    background-color: #4b768b;
+    background: linear-gradient(45deg, #271c87, #0080a7, #14bc6a);
     color: #ffffff;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
@@ -11,7 +11,7 @@ nav{
 }
 
 body{
-    background-color: #d7f8ff;
+    background-color: #dadada;
 }
 
 #b1{
@@ -39,7 +39,7 @@ label{
     border: 15px solid; /* Ancho del borde */
     border-image: linear-gradient(45deg, #4c38ff, #24c7f9, #1dd17a) 1;
     background-color:#2b3134;
-    color:#edfaff;
+    color:#ffffff;
     width:100%;
     height:100%;
 }
